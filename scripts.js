@@ -1,1 +1,1 @@
-//alert("Hey!");
+alert("die bitch!");
